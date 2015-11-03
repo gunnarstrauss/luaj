@@ -1,7 +1,5 @@
-someNumber = 3
+a = {}
+a['firstName'] = 'Joe'
+a['secondName'] = 'Sixpack'
 
-if someNumber == 2 then
-    print("if")
-else
-    print("else")
-end
+print(a['firstName'])
