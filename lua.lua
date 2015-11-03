@@ -1,5 +1,3 @@
-a = {}
-a['firstName'] = 'Joe'
-a['secondName'] = 'Sixpack'
-
-print(a['firstName'])
+for i=1,10 do
+    print(i)
+end
