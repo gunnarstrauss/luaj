@@ -1,9 +1,3 @@
-function greet(name)
+someNumber = 1
 
-    print(string.format("Hello, %s!", name))
-
-end
-
-greet("World")
-
-
+print(someNumber)
