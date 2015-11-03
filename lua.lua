@@ -1,5 +1,3 @@
-startOfString, endOfString = string.find("hello Lua users", "Lua")
+array = {1, 2, 3}
 
-print(startOfString)
-print(endOfString)
-
+print(array[1])
