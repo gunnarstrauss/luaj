@@ -1,5 +1,3 @@
-function twice (x)
-    return 2*x
-end
-
-print(twice(2))
+print(type("Hello world"))
+print(type(true))
+print(type(type))
