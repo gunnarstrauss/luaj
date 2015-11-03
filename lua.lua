@@ -1,3 +1,7 @@
-print(type("Hello world"))
-print(type(true))
-print(type(type))
+someNumber = 3
+
+if someNumber == 2 then
+    print("if")
+else
+    print("else")
+end
