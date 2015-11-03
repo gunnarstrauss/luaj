@@ -1,10 +1,5 @@
-i = 1
+startOfString, endOfString = string.find("hello Lua users", "Lua")
 
-while i <= 10 do
+print(startOfString)
+print(endOfString)
 
-    print(i)
-
-    if i == 5 then break end
-
-    i = i + 1
-end
