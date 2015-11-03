@@ -1,3 +1,5 @@
-someNumber = 1
+function twice (x)
+    return 2*x
+end
 
-print(someNumber)
+print(twice(2))
