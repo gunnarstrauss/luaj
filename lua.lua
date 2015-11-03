@@ -1,5 +1,8 @@
-a, b, c = 1, 2, 3
+i = 1
 
-print(a)
-print(b)
-print(c)
+while i <= 10 do
+
+    print(i)
+
+    i = i + 1
+end
